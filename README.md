@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<!--
+<div id="header" align="center>
+  <img scr="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZvOGcyNnkwZWd4cDVwd24zZzAydXEzYmc3d2pndDQ4aGlxdGEwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif", width="100"/>
+</div>
 **arlinrus/arlinrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
