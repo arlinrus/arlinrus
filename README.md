@@ -8,7 +8,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://web.telegram.org/k/#@iamarlinrus">
+  <a href="https://vk.com/iamarlinrus">
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>
   </a>
   <a href="https://vk.com/iamarlinrus">
