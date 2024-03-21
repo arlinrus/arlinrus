@@ -17,9 +17,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://web.telegram.org/k/#@iamarlinrus">
     <img src="https://komarev.com/ghpvc/?username=arlinrus&style=flat-square&color=blue" alt=""/>>
-  </a>
 </div>
 
 ### Some facts about me
