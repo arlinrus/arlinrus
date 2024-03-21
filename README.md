@@ -11,7 +11,7 @@
   <a href="https://vk.com/iamarlinrus">
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>
   </a>
-  <a href="https://vk.com/iamarlinrus">
+  <a href="https://web.telegram.org/k/#@iamarlinrus">
     <img src="https://img.shields.io/badge/Telegram-blueviolet?style=for-the-badge&logo=Telegramm&logoColor=white" alt="tg Badge"/>
   </a> 
 </div>
