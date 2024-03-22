@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>I'm  Arina </h1>
-    <h3>Golang Deve from SPb</h3>
+    <h3>Golang Dev from SPb</h3>
 </div>
 
 <div id="header" align="center">
