@@ -1,6 +1,6 @@
 <div id="header" align="center">
-    <h1>Hi there, I'm  Arina </h1>
-    <h3>Golang Developer from Saint-Petersburg</h3>
+    <h1>I'm  Arina </h1>
+    <h3>Golang Deve from SPb</h3>
 </div>
 
 <div id="header" align="center">
