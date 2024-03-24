@@ -22,7 +22,14 @@
 
 
 <div id="header" align="left">
-    <h4>Study at ITMO university</h4>
+    <h4> Study at ITMO university</h4>
+    <h4> I am learning German and can also speak English</h4>
+    <h4> Learning the basics of Data Science and Machine Learning</h4>
+    <h4> Hello, I study at ITMO university</h4>
+
+
+
+    
         
 ---
 <div id="header" align="left">
