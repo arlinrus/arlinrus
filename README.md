@@ -22,10 +22,8 @@
 
 
 <div id="header" align="left">
-    <h4> Study at ITMO university</h4>
-    <h4> I am learning German and can also speak English</h4>
-    <h4> Learning the basics of Data Science and Machine Learning</h4>
-    <h4> Hello, I study at ITMO university</h4>
+    <h4> 👾 I study at ITMO University. I speak English fluently, and also studied at a German school, where I studied German. I am mastering the basics of data science and machine learning. I write in the Goleng programming language, as well as layout in HTML and CSS.</h4>
+    
 
 
 
