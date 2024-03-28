@@ -43,20 +43,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
 
-vdovpvjrovrepiovhev
-vipvdv
-]v
-jv
-[jvevjp
-bj 
-pb jep
-bjr
-epbjrp
-ejw
-pbj
-bjrpe
-jbvw
-jb
 
 
 
