@@ -22,7 +22,7 @@
 
 
 <div id="header" align="left">
-    <h4> 👾 I study at ITMO University. I speak English fluently, and also studied at a German school, where I studied German. I am mastering the basics of data science and machine learning. I write in the Goleng programming language, as well as layout in HTML and CSS.</h4>
+    <h4> 👾 Study at ITMO University. Speak English fluently, and also studied at a German school, where I studied German. I am mastering the basics of data science and machine learning. Write in the Golang programming language, as well as layout in HTML and CSS.</h4>
     
 
 
