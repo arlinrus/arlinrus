@@ -37,7 +37,7 @@
 
 <div id="header" align="left">
     <h3>🍀 Case Championship </h3>
-    <h4>Moskow Travel hack 2024 - participant</h4>
+    <h4>Цифровой паспорт компетенций для развития в сфере IT</h4>
 </div>
 
 
