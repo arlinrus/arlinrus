@@ -17,18 +17,7 @@
 
 <div id="badges" align="left">
     <img src="https://komarev.com/ghpvc/?username=arlinrus&style=flat-square&color=blue" alt=""/>>
-</div>
-
-
-
-<div id="header" align="left">
-    <h4> 👾 Study at ITMO University. Speak English fluently, and also studied at a German school, where I studied German. I am mastering the basics of data science and machine learning. Write in the Golang programming language, as well as layout in HTML and CSS.</h4>
-    
-
-
-
-    
-        
+</div>        
 ---
 <div id="header" align="left">
     <h3>🍀 Hackathons </h3>
