@@ -26,17 +26,6 @@
 
 ---
 
-## Примеры проектов
-
-| Проект | Описание | Стек |
-|--------|----------|------|
-| [Data Visualization in Python](ссылка) | Анализ и визуализация данных с использованием Python | Python, Pandas, Matplotlib |
-| [ML Model for Predictions](ссылка) | Модель прогнозирования на основе статистических данных | Python, Scikit-learn, TensorFlow |
-| [Data Analysis in R](ссылка) | Статистический анализ и графики | R, ggplot2 |
-| [Excel Sales Dashboard](ссылка) | Интерактивный дашборд для анализа продаж | Excel, Power Query |
-
----
-
 ## Контакты
 - Email: [твоя_почта](mailto:твоя_почта)
 - LinkedIn: [ссылка](ссылка)
