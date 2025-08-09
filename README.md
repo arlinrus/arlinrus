@@ -1,21 +1,37 @@
+# Data Analyst / Data Scientist
 
+Аналитик данных из Санкт-Петербурга. Специализируюсь на статистике, высшей математике и анализе данных. Опыт работы с Python, R, SAP, Excel и современными инструментами для аналитики и машинного обучения.
 
-### Languges and tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" title="golang" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="golang" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="oracle" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" title="pytorch" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="pytorch" width="40" height="40"/>&nbsp;
-          
+---
 
-             
-          
-          
-          
+## Навыки и инструменты
 
+**Языки программирования и аналитика**
+- R — статистический анализ, визуализация данных ([[ссылка на сайт/портфолио](https://perfomance-index-2022-2022.netlify.app)](тут_ссылка))
+- Python — matplotlib, pyplot, scikit-learn, TensorFlow
+- SQL — написание запросов и обработка данных
 
+**Хранилища данных и базы**
+- SAP — работа с данными и отчетами
+- Принципы ETL и проектирование DWH
 
+**BI и офисные инструменты**
+- Excel — продвинутый уровень (сводные таблицы, Power Query, сложные формулы)
 
+**Математика и статистика**
+- Теория вероятностей, математическая статистика
+- Регрессионный и дисперсионный анализ
+- Оптимизация и математическое моделирование
+
+---
+
+## Проекты
+
+| Проект | Описание | Стек |
+|--------|----------|------|
+| [Data Visualization in R](ссылка) | Анализ и визуализация данных | R, ggplot2 |
+| [ML Model on Python](ссылка) | Модель классификации | Python, scikit-learn, TensorFlow |
+| [Excel Sales Dashboard](ссылка) | Интерактивный дашборд продаж | Excel, Power Query |
+
+---
 
